@@ -1,0 +1,57 @@
+{
+  "Restaurants":[
+    {
+      "name": "Yummy Burgers",
+      "description": "The best Burgers in the Area! you must try them!",
+      "rating": 4.5,
+      "hours": "11:00 am - 11:00 pm",
+      "price": "$$",
+      "fullAdress": "3426 Burger St, Vienna VA 22180",
+      "image": "burgers.jpg",
+      "url": "https://www.thedailymeal.com/101-best-burgers-america-0"
+    },
+    {
+      "name": "Green House",
+      "description": "Build your own salad with organic products. Can't get healthier than that!",
+      "rating": 4.3,
+      "hours": "10:30 am - 8:30 pm",
+      "price": "$$",
+      "fullAdress": "9832 Healthy Ave, Vienna VA 22180",
+      "image": "salad.jpg",
+      "url": "https://www.thedailymeal.com/eat/america-s-best-salad-chains-slideshow"
+    },
+    {
+      "name": "Steak Palace",
+      "description": "The home of juicy steaks and all you can eat salad bar!",
+      "rating": 5.0,
+      "hours": "3:00 pm - 11:30 pm",
+      "price": "$$$$",
+      "fullAdress": "2784 Ox Rd, CVienna VA 22180",
+      "image": "steak.jpg",
+      "url": "https://www.thedailymeal.com/eat/best-steakhouses-america"
+    },
+    {
+      "name": "Pizza Mania",
+      "description": "Tons of NY style and Dip dish pizza options!",
+      "rating": 3.4,
+      "hours": "11:00 am - 9:00 pm",
+      "price": "$",
+      "fullAdress": "8237 Braddock Rd, Vienna VA 22180",
+      "image": "pizza.jpg",
+      "url": "https://www.thedailymeal.com/eat/101-best-pizzas-america-2020"
+    },
+    {
+      "name": "Italian Delight",
+      "description": "pasta made in-house plus hearty Italian classics you will love",
+      "rating": 4.6,
+      "hours": "3:00 pm - 11:30 pm",
+      "price": "$$$",
+      "fullAdress": "15268 Lee Hwy, Vienna VA 22180",
+      "image": "italian.jpg",
+      "url": "https://www.thedailymeal.com/eat/americas-best-italian-restaurants-gallery"
+    }
+  ],
+  "status": "OK"
+ }
+                
+       
