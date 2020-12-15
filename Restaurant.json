@@ -7,7 +7,7 @@
       "hours": "11:00 am - 11:00 pm",
       "price": "$$",
       "fullAdress": "3426 Burger St, Vienna VA 22180",
-      "image": "burgers.jpg",
+      "image": "https://raw.githubusercontent.com/pame032/IT315/main/burgers.jpg",
       "url": "https://www.thedailymeal.com/101-best-burgers-america-0"
     },
     {
@@ -17,7 +17,7 @@
       "hours": "10:30 am - 8:30 pm",
       "price": "$$",
       "fullAdress": "9832 Healthy Ave, Vienna VA 22180",
-      "image": "salad.jpg",
+      "image": "https://raw.githubusercontent.com/pame032/IT315/main/salad.jpg",
       "url": "https://www.thedailymeal.com/eat/america-s-best-salad-chains-slideshow"
     },
     {
@@ -27,7 +27,7 @@
       "hours": "3:00 pm - 11:30 pm",
       "price": "$$$$",
       "fullAdress": "2784 Ox Rd, CVienna VA 22180",
-      "image": "steak.jpg",
+      "image": "https://raw.githubusercontent.com/pame032/IT315/main/steak.jpg",
       "url": "https://www.thedailymeal.com/eat/best-steakhouses-america"
     },
     {
@@ -37,7 +37,7 @@
       "hours": "11:00 am - 9:00 pm",
       "price": "$",
       "fullAdress": "8237 Braddock Rd, Vienna VA 22180",
-      "image": "pizza.jpg",
+      "image": "https://raw.githubusercontent.com/pame032/IT315/main/pizza.jpg",
       "url": "https://www.thedailymeal.com/eat/101-best-pizzas-america-2020"
     },
     {
@@ -47,7 +47,7 @@
       "hours": "3:00 pm - 11:30 pm",
       "price": "$$$",
       "fullAdress": "15268 Lee Hwy, Vienna VA 22180",
-      "image": "italian.jpg",
+      "image": "https://raw.githubusercontent.com/pame032/IT315/main/italian.jpg",
       "url": "https://www.thedailymeal.com/eat/americas-best-italian-restaurants-gallery"
     }
   ],
