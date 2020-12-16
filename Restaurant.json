@@ -8,6 +8,7 @@
       "price": "$$",
       "fullAdress": "3426 Burger St, Vienna VA 22180",
       "image": "https://raw.githubusercontent.com/pame032/IT315/main/burgers.jpg",
+      "image2": "https://raw.githubusercontent.com/pame032/IT315/main/burgers2.jpg",
       "url": "https://www.thedailymeal.com/101-best-burgers-america-0"
     },
     {
@@ -18,6 +19,7 @@
       "price": "$$",
       "fullAdress": "9832 Healthy Ave, Vienna VA 22180",
       "image": "https://raw.githubusercontent.com/pame032/IT315/main/salad.jpg",
+      "image2": "https://raw.githubusercontent.com/pame032/IT315/main/salad2.jpg",
       "url": "https://www.thedailymeal.com/eat/america-s-best-salad-chains-slideshow"
     },
     {
@@ -28,6 +30,7 @@
       "price": "$$$$",
       "fullAdress": "2784 Ox Rd, CVienna VA 22180",
       "image": "https://raw.githubusercontent.com/pame032/IT315/main/steak.jpg",
+      "image2": "https://raw.githubusercontent.com/pame032/IT315/main/steak2.jpg",
       "url": "https://www.thedailymeal.com/eat/best-steakhouses-america"
     },
     {
@@ -38,6 +41,7 @@
       "price": "$",
       "fullAdress": "8237 Braddock Rd, Vienna VA 22180",
       "image": "https://raw.githubusercontent.com/pame032/IT315/main/pizza.jpg",
+      "image2": "https://raw.githubusercontent.com/pame032/IT315/main/pizza2.jpg",
       "url": "https://www.thedailymeal.com/eat/101-best-pizzas-america-2020"
     },
     {
@@ -48,6 +52,7 @@
       "price": "$$$",
       "fullAdress": "15268 Lee Hwy, Vienna VA 22180",
       "image": "https://raw.githubusercontent.com/pame032/IT315/main/italian.jpg",
+      "image2": "https://raw.githubusercontent.com/pame032/IT315/main/italian2.jpg",
       "url": "https://www.thedailymeal.com/eat/americas-best-italian-restaurants-gallery"
     }
   ],
